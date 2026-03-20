@@ -1,0 +1,20 @@
+Emotion2Verse is an NLP-powered project designed to analyze and interpret verses from the Bhagavad Gita using modern machine learning techniques.
+
+The system allows users to input emotions such as anxiety, confusion, or anger, and intelligently recommends relevant verses that provide guidance and insight. It also supports thematic clustering and classification of verses into categories like duty, devotion, knowledge, and ethical teachings.
+
+This project leverages Natural Language Processing techniques such as text preprocessing, TF-IDF vectorization, cosine similarity, and machine learning algorithms like Naive Bayes and Logistic Regression.
+
+Key Features:
+- Emotion-based verse recommendation system
+- Theme detection using clustering algorithms
+- Moral instruction classification of verses
+- Clean and structured dataset (JSON/CSV)
+- Scalable NLP pipeline for text analysis
+
+Tech Stack:
+- Python
+- NLTK / spaCy
+- Scikit-learn
+- Pandas & NumPy
+
+This project demonstrates the practical application of NLP in extracting meaningful insights from spiritual texts and delivering personalized guidance to users.
